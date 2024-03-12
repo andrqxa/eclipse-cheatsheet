@@ -11,8 +11,6 @@ A printable cheat sheet for the Eclipse SDK
   <tr>
     <th>PDF</th>
     <th>ODT</th>
-    <th>PDF</th>
-    <th>ODT</th>
   </tr>
   <tr>
     <td>4.30</td>
