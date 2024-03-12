@@ -15,7 +15,12 @@ A printable cheat sheet for the Eclipse SDK
     <th>ODT</th>
   </tr>
   <tr>
-    <td>4.17 / 4.18 </td>
+    <td>4.30</td>
+    <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse4.30/eclipse-shortcuts-win-4.30.pdf">pdf</a></td>
+    <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse4.30/eclipse-shortcuts-win-4.30.odt">odt</a></td>
+  </tr> 
+  <tr>
+    <td>4.17 / 4.18</td>
     <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse4.17/eclipse-shortcuts-win-4.17.pdf">pdf</a></td>
     <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse4.17/eclipse-shortcuts-win-4.17.odt">odt</a></td>
   </tr>   
